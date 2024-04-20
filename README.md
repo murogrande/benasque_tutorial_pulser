@@ -1,4 +1,4 @@
-# benasque_tutorial_pulser
+# Benasque: Pulser tutorial
 Notebooks about AMF state creation and MIS problem using Pulser
 
 Spring School on Near-Term Quantum Computing
